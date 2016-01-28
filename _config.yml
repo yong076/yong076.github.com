@@ -1,16 +1,16 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno' 
+title: jasonkim
+description: 'JasonKim's Android World'
+url: 'http://yong076.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'JasonKim'
+  email: yong076@gmail.com
+  twitter_username: yong076
+  github_username:  yong076
+  linkedin_username:  yong076
 
 # Build settings
 destination: _site
