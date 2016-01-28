@@ -1,12 +1,12 @@
 # Site settings
-title: jasonkim
-description: 'JasonKim's Android World'
+title: JasonKim
+description: 'Android Developer'
 url: 'http://yong076.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
-  name: 'JasonKim'
+  name: 'Jason Kim'
   email: yong076@gmail.com
   twitter_username: yong076
   github_username:  yong076
