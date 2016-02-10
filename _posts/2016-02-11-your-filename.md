@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## 최근 3주간을 되돌아 보며... 
 인디 게임중에 "Darkest Dungeon"이라는 게임이 있다.
