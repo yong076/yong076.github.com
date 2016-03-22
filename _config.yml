@@ -1,8 +1,8 @@
 # Site settings
 title: JasonKim
 description: 'Android Developer'
-# url: 'http://yong076.github.io'
-baseurl: '/blog/'
+url: 'http://yong076.github.io'
+baseurl: '/blog'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
