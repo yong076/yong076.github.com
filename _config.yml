@@ -1,27 +1,29 @@
 # Site settings
-title: JasonKim
-description: 'Android Developer'
 
-# google_analytics: 'UA-XXXXXX-X'
+title: Strata # Title of your site
+email: yong076@gmail.com # Your contant email
 
-author:
-  name: 'Jason Kim'
-  email: yong076@gmail.com
-  twitter_username: yong076
-  github_username:  yong076
-  linkedin_username:  yong076
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yong076.github.io" # the base hostname & protocol for your site
+
+# Social links.
+# Replace the word 'example' with your username if you want to include the icon in the left sidebar
+# Delete the word 'example' if you don't want to include the icon in the left sidebar
+
+twitter_username:     example  # Replace this with your Twitter username
+github_username:      example  # Replace this with your GitHub username
+linkedin_username:    example  # Replace this with your LinkedIn username
+google_plus_username: example  # Replace this with your Google+ username
+facebook_username:    example  # Replace this with your Facebook username
+dribbble_username:    example  # Replace this with your Dribbble username
 
 # Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
 markdown: kramdown
-highlighter: pygments
 
 kramdown:
-  # use Github Flavored Markdown
   input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+  syntax_highlighter: rouge
