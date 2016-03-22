@@ -14,12 +14,11 @@ url: "http://yong076.github.io" # the base hostname & protocol for your site
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
-twitter_username:     example  # Replace this with your Twitter username
-github_username:      example  # Replace this with your GitHub username
-linkedin_username:    example  # Replace this with your LinkedIn username
-google_plus_username: example  # Replace this with your Google+ username
-facebook_username:    example  # Replace this with your Facebook username
-dribbble_username:    example  # Replace this with your Dribbble username
+twitter_username:     yong076  # Replace this with your Twitter username
+github_username:      yong076  # Replace this with your GitHub username
+linkedin_username:    yong076  # Replace this with your LinkedIn username
+google_plus_username: yong076  # Replace this with your Google+ username
+facebook_username:    yong076  # Replace this with your Facebook username
 
 # Build settings
 markdown: kramdown
